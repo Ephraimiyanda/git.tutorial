@@ -12,9 +12,7 @@ body{
 header{
     margin-bottom: 60px;
     width:370px;
-    
     margin-bottom: 70px;
-    box-shadow: ;
     height:800px;
     box-shadow: 0 1px 4px 0 rgba( 0, 0, 0, 0.12), 0 1px 4px 0 rgba( 0, 0, 0, 0.18);
    
@@ -90,9 +88,7 @@ h2,h3,h4{
     margin-right: 30px;
 }
 
-{
-    margin-left:60px;
-}
+
 .card4{
     height:120px;
     width:320px;
